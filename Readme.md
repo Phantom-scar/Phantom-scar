@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/firebase/quickstart-android/assets/126165871/b9bf61a2-9a38-4300-80be-81977c5e4f29)
 
-# 💫 About Me:
+# 👨🏻‍💻 About Me:
 Hi, my name is Aniket, and I'm a computer science major<br>You can share any programming languages or technologies you have experience with.![b1fc82b29606d0c4116c0ff1ec14109786c1e81f73218d28bac2212a607ed400](https://github.com/firebase/quickstart-android/assets/126165871/352d8c5e-cb09-4c22-8b60-7aef0acdfe81)
 
 ## 🌐 Socials:
