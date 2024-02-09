@@ -1,7 +1,4 @@
-![github-header-image](https://github.com/firebase/quickstart-android/assets/126165871/b9bf61a2-9a38-4300-80be-81977c5e4f29)
-
 # ![text](https://github.com/Phantom-scar/Phantom-scar/assets/126165871/655305c4-289e-4763-8384-0aca5725251e)
-🅷🅴🆈 🆈🅾🆄 🅽🅸🅲🅴 🆃🅾 🆂🅴🅴 🆈🅾🆄 🅷🅴🆁🅴 
 <br>![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 <br>[![](https://visitcount.itsvg.in/api?id=Phantom-scar&icon=2&color=8)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
