@@ -1,3 +1,5 @@
+![heisencat](https://github.com/Phantom-scar/Phantom-scar/assets/126165871/d53c68d0-c6a6-4609-9db2-a21c4f486bb8)
+
 # ![text](https://github.com/Phantom-scar/Phantom-scar/assets/126165871/655305c4-289e-4763-8384-0aca5725251e)
 <br>![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 <br>[![](https://visitcount.itsvg.in/api?id=Phantom-scar&icon=2&color=8)](https://visitcount.itsvg.in)
